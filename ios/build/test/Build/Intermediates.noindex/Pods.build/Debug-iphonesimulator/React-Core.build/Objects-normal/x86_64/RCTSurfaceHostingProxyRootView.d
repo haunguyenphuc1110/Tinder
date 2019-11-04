@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTRootView.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceDelegate.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceStage.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceSizeMeasureMode.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTView.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h

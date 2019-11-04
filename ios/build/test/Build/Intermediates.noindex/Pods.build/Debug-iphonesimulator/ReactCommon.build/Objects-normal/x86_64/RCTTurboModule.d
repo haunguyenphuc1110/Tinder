@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/hau.nguyen.phuc/Desktop/test/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Folly/folly/Optional.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Folly/folly/Portability.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Folly/folly/CPortability.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Folly/folly/Traits.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Folly/folly/Utility.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/hau.nguyen.phuc/Desktop/test/ios/Pods/Folly/folly/CppAttributes.h
