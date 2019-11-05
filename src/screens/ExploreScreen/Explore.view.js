@@ -135,7 +135,6 @@ class Explore extends React.Component {
   }
 
   render() {
-    console.log(this.state.user);
     return (
       <View style={styles.main}>
         <View style={styles.top}>
