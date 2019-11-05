@@ -9,7 +9,7 @@ const TabIcon = (props) => {
   return (
     <View style={styles.container}>
       <View style={[styles.line, { borderColor: isSelected ? COLORS.green : COLORS.white }]}/>
-      <Icon name={name} size={28} color={ isSelected && COLORS.green } onPress={onPress}/>
+      <Icon name={name} size={28} color={ isSelected ? COLORS.green : COLORS.black } onPress={onPress}/>
     </View>
   )
 }

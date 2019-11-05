@@ -80,7 +80,7 @@ class Explore extends React.Component {
         else if (gestureState.dx < -SWIPE_THRESHOLD) {
           this.getRandomUser();
           Animated.spring(this.position, {
-            toValue: { x: -SCREEN_WIDTH - 100, y: gestureState.dy }
+            toValue: { x: -SCREEN_WIDTH - 150, y: gestureState.dy }
           }).start(() => {
             this.position.setValue({ x: 0, y: 0 })
           })
